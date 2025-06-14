@@ -1,0 +1,19 @@
+{
+    "name": "ali-mino/predkit",
+    "version": "0.0.0",
+    "description": "A collection of composable predicate classes for PHP, allowing flexible combination of conditions using binary operations such as AND, OR, and more.",
+    "maintainers": [
+        {
+            "name": "Ali M. Kamel",
+            "email": "ali.kamel.dev@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Predkit\\": "src/"
+        }
+    }
+}
