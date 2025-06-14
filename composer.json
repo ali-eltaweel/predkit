@@ -1,6 +1,6 @@
 {
-    "name": "ali-mino/predkit",
-    "version": "0.0.0",
+    "name": "ali-eltaweel/predkit",
+    "version": "1.0.0",
     "description": "A collection of composable predicate classes for PHP, allowing flexible combination of conditions using binary operations such as AND, OR, and more.",
     "maintainers": [
         {
